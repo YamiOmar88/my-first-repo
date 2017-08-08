@@ -1,1 +1,2 @@
 I am adding new commits to this branch in file1.txt
+New line in my-new-branch
